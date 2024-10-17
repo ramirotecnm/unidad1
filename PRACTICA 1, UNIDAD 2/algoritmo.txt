@@ -1,0 +1,49 @@
+Mover los 4 discos de A a B usando C como auxiliar.
+
+Mover 3 discos de A a C usando B como auxiliar.
+Mover 2 discos de A a B usando C como auxiliar.
+Mover 1 disco de A a C.
+Mover disco 2 de A a B.
+Mover disco 1 de C a B.
+Mover disco 3 de A a C.
+Mover 2 discos de B a C usando A como auxiliar.
+Mover disco 1 de B a A.
+Mover disco 2 de B a C.
+Mover disco 1 de A a C.
+Mover disco 4 de A a B.
+Mover 3 discos de C a B usando A como auxiliar.
+Mover 2 discos de C a A usando B como auxiliar.
+Mover disco 1 de C a B.
+Mover disco 2 de C a A.
+Mover disco 1 de B a A.
+Mover disco 3 de C a B.
+Mover 2 discos de A a B usando C como auxiliar.
+Mover disco 1 de A a C.
+Mover disco 2 de A a B.
+Mover disco 1 de C a B.
+Mover disco 5 de A a C.
+
+Mover los 4 discos de B a C usando A como auxiliar.
+
+Mover 3 discos de B a A usando C como auxiliar.
+Mover 2 discos de B a C usando A como auxiliar.
+Mover disco 1 de B a A.
+Mover disco 2 de B a C.
+Mover disco 1 de A a C.
+Mover disco 3 de B a A.
+Mover 2 discos de C a A usando B como auxiliar.
+Mover disco 1 de C a B.
+Mover disco 2 de C a A.
+Mover disco 1 de B a A.
+Mover disco 4 de B a C.
+Mover 3 discos de A a C usando B como auxiliar.
+Mover 2 discos de A a B usando C como auxiliar.
+Mover disco 1 de A a C.
+Mover disco 2 de A a B.
+Mover disco 1 de C a B.
+Mover disco 3 de A a C.
+Mover 2 discos de B a C usando A como auxiliar.
+Mover disco 1 de B a A.
+Mover disco 2 de B a C.
+Mover disco 1 de A a C.
+Fin del algoritmo.
